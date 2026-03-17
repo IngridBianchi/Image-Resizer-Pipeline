@@ -1,0 +1,15 @@
+lambda/node_modules/
+lambda/dist/
+
+infra/.terraform/
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+infra/*.tfstate
+infra/*.tfstate.backup
+infra/**/.terraform/
+infra/**/*.tfstate
+infra/**/*.tfstate.backup
+
+200x200-Ingrid.png
+npm-debug.log*
+coverage/
